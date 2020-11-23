@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "CULogoBkgnd.psd",
+	"frame": {"x":435,"y":1523,"w":370,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":370,"h":166},
+	"sourceSize": {"w":370,"h":165}
+},
+{
+	"filename": "MarmosetLg.psd",
+	"frame": {"x":1,"y":487,"w":700,"h":1034},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":1034},
+	"sourceSize": {"w":699,"h":1034}
+},
+{
+	"filename": "MMLogo.psd",
+	"frame": {"x":1,"y":1523,"w":432,"h":410},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":432,"h":410},
+	"sourceSize": {"w":432,"h":410}
+},
+{
+	"filename": "PlayBtn.psd",
+	"frame": {"x":701,"y":1691,"w":262,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":144},
+	"sourceSize": {"w":262,"h":143}
+},
+{
+	"filename": "PlayBtnDown.psd",
+	"frame": {"x":703,"y":487,"w":254,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":254,"h":138},
+	"sourceSize": {"w":262,"h":143}
+},
+{
+	"filename": "StartBtn.psd",
+	"frame": {"x":435,"y":1691,"w":264,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":144},
+	"sourceSize": {"w":263,"h":143}
+},
+{
+	"filename": "StartBtnDown.psd",
+	"frame": {"x":703,"y":627,"w":254,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":254,"h":138},
+	"sourceSize": {"w":263,"h":143}
+},
+{
+	"filename": "TitleType.psd",
+	"frame": {"x":1,"y":1,"w":842,"h":484},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":842,"h":484},
+	"sourceSize": {"w":841,"h":484}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "TitleScreenImages.png",
+	"format": "RGBA8888",
+	"size": {"w":964,"h":1934},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb12dae977880df911a23ad3a342eac3:af6f1925288f187dc66784c9a2f4ac9a:1104dbe7247952291ca4881e90234244$"
+}
+}
