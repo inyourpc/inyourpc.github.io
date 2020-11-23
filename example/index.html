@@ -100,7 +100,7 @@
             });
             password.focusOutOnEnter = false;
             testHolder = password;
-            alert(""+password)
+            //alert(""+password)
             //Let's not forget about age?!
             var ageBg = game.add.nineSlice(game.width / 2 + 5, 320, 'input', null, 200, 50);
             ageBg.anchor.set(0.5);
@@ -119,7 +119,7 @@
                 zoom: true,
                 
             });
-            alert("age.id"+age.domElement.id)
+            //alert("age.id"+age.domElement.id)
                     console.log(age);
 
                     document.getElementById(""+age.domElement.id).addEventListener("change", function(){
@@ -133,7 +133,7 @@
            age.events.onInputOver.add(function(){
                 console.log(":"+age.value);
            });
-           alert()
+           //alert()
            password.events.onInputUp.add(function(){
                 console.log(":"+password.value);
            });
