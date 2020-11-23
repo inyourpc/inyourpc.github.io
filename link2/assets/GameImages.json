@@ -1,0 +1,484 @@
+{"frames": [
+
+{
+	"filename": "BackBtn.psd",
+	"frame": {"x":1303,"y":527,"w":196,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":104},
+	"sourceSize": {"w":195,"h":104}
+},
+{
+	"filename": "BackBtnDown.psd",
+	"frame": {"x":1333,"y":217,"w":186,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":186,"h":100},
+	"sourceSize": {"w":195,"h":104}
+},
+{
+	"filename": "BlackBox.psd",
+	"frame": {"x":1849,"y":147,"w":144,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":96},
+	"sourceSize": {"w":144,"h":96}
+},
+{
+	"filename": "ClaraPortrait.psd",
+	"frame": {"x":1,"y":447,"w":360,"h":438},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":438},
+	"sourceSize": {"w":360,"h":438}
+},
+{
+	"filename": "Color1Btn.psd",
+	"frame": {"x":1,"y":1317,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "Color2Btn.psd",
+	"frame": {"x":105,"y":1317,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "Color3Btn.psd",
+	"frame": {"x":1205,"y":633,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "Color4Btn.psd",
+	"frame": {"x":1411,"y":841,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "Color5Btn.psd",
+	"frame": {"x":1699,"y":1027,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "Color6Btn.psd",
+	"frame": {"x":1699,"y":1131,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "Color7Btn.psd",
+	"frame": {"x":1699,"y":1235,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "Color8Btn.psd",
+	"frame": {"x":1577,"y":1027,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+{
+	"filename": "CutOutMoneyImage.psd",
+	"frame": {"x":205,"y":887,"w":382,"h":398},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":398},
+	"sourceSize": {"w":382,"h":397}
+},
+{
+	"filename": "DoneBtn.psd",
+	"frame": {"x":1097,"y":517,"w":190,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":98},
+	"sourceSize": {"w":190,"h":98}
+},
+{
+	"filename": "DoneBtnDown.psd",
+	"frame": {"x":1809,"y":391,"w":184,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":184,"h":94},
+	"sourceSize": {"w":190,"h":98}
+},
+{
+	"filename": "FoxPortrait.psd",
+	"frame": {"x":589,"y":833,"w":288,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":380},
+	"sourceSize": {"w":288,"h":379}
+},
+{
+	"filename": "FrugalPortrait.psd",
+	"frame": {"x":1,"y":887,"w":202,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":428},
+	"sourceSize": {"w":202,"h":427}
+},
+{
+	"filename": "JoePortrait.psd",
+	"frame": {"x":1,"y":1,"w":408,"h":444},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":408,"h":444},
+	"sourceSize": {"w":407,"h":444}
+},
+{
+	"filename": "MarmosetPortrait.psd",
+	"frame": {"x":667,"y":1,"w":320,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":380},
+	"sourceSize": {"w":319,"h":379}
+},
+{
+	"filename": "MoneyFunFactsBtn.psd",
+	"frame": {"x":209,"y":1287,"w":250,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":124},
+	"sourceSize": {"w":249,"h":124}
+},
+{
+	"filename": "MoneyFunFactsBtnDown.psd",
+	"frame": {"x":461,"y":1287,"w":240,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":240,"h":122},
+	"sourceSize": {"w":249,"h":124}
+},
+{
+	"filename": "MoreBtn.psd",
+	"frame": {"x":1333,"y":1,"w":186,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":108},
+	"sourceSize": {"w":185,"h":107}
+},
+{
+	"filename": "MoreBtnDown.psd",
+	"frame": {"x":1809,"y":487,"w":180,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":180,"h":106},
+	"sourceSize": {"w":185,"h":107}
+},
+{
+	"filename": "NextBtn.psd",
+	"frame": {"x":1333,"y":111,"w":186,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":104},
+	"sourceSize": {"w":186,"h":104}
+},
+{
+	"filename": "NextBtnDown.psd",
+	"frame": {"x":1809,"y":1011,"w":176,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":176,"h":100},
+	"sourceSize": {"w":186,"h":104}
+},
+{
+	"filename": "PiggsPortrait.psd",
+	"frame": {"x":989,"y":1,"w":342,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":342,"h":368},
+	"sourceSize": {"w":341,"h":368}
+},
+{
+	"filename": "Portrait1Btn.psd",
+	"frame": {"x":989,"y":1211,"w":176,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":206},
+	"sourceSize": {"w":175,"h":205}
+},
+{
+	"filename": "Portrait2Btn.psd",
+	"frame": {"x":1167,"y":1211,"w":176,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":206},
+	"sourceSize": {"w":175,"h":206}
+},
+{
+	"filename": "Portrait3Btn.psd",
+	"frame": {"x":1345,"y":1207,"w":176,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":206},
+	"sourceSize": {"w":175,"h":206}
+},
+{
+	"filename": "Portrait4Btn.psd",
+	"frame": {"x":1809,"y":595,"w":176,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":206},
+	"sourceSize": {"w":176,"h":206}
+},
+{
+	"filename": "Portrait5Btn.psd",
+	"frame": {"x":1809,"y":803,"w":176,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":206},
+	"sourceSize": {"w":176,"h":206}
+},
+{
+	"filename": "Portrait6Btn.psd",
+	"frame": {"x":1333,"y":319,"w":174,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":206},
+	"sourceSize": {"w":174,"h":206}
+},
+{
+	"filename": "Portrait7Btn.psd",
+	"frame": {"x":1309,"y":633,"w":174,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":206},
+	"sourceSize": {"w":174,"h":205}
+},
+{
+	"filename": "Portrait8Btn.psd",
+	"frame": {"x":1523,"y":1173,"w":174,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":206},
+	"sourceSize": {"w":174,"h":206}
+},
+{
+	"filename": "Portrait9Btn.psd",
+	"frame": {"x":1803,"y":1113,"w":174,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":206},
+	"sourceSize": {"w":174,"h":206}
+},
+{
+	"filename": "PortraitBtnHilite.psd",
+	"frame": {"x":1285,"y":991,"w":182,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":214},
+	"sourceSize": {"w":182,"h":213}
+},
+{
+	"filename": "PrintPlayMoneyBtn.psd",
+	"frame": {"x":879,"y":763,"w":422,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":422,"h":226},
+	"sourceSize": {"w":422,"h":226}
+},
+{
+	"filename": "PrintPlayMoneyBtnDown.psd",
+	"frame": {"x":879,"y":991,"w":404,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":404,"h":218},
+	"sourceSize": {"w":422,"h":226}
+},
+{
+	"filename": "PumaPortrait.psd",
+	"frame": {"x":411,"y":1,"w":254,"h":384},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":384},
+	"sourceSize": {"w":253,"h":383}
+},
+{
+	"filename": "RadioBtn.psd",
+	"frame": {"x":363,"y":833,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":12,"w":36,"h":36},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "RadioBtnChecked.psd",
+	"frame": {"x":401,"y":833,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":12,"w":36,"h":36},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "StartOverBtn.psd",
+	"frame": {"x":1523,"y":1,"w":340,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":340,"h":138},
+	"sourceSize": {"w":339,"h":138}
+},
+{
+	"filename": "StartOverBtnDown.psd",
+	"frame": {"x":1523,"y":141,"w":324,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":324,"h":134},
+	"sourceSize": {"w":339,"h":138}
+},
+{
+	"filename": "Step1Oval.psd",
+	"frame": {"x":1865,"y":1,"w":106,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":144},
+	"sourceSize": {"w":106,"h":144}
+},
+{
+	"filename": "Step2Oval.psd",
+	"frame": {"x":1849,"y":245,"w":106,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":144},
+	"sourceSize": {"w":106,"h":144}
+},
+{
+	"filename": "Step3Oval.psd",
+	"frame": {"x":1097,"y":371,"w":106,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":144},
+	"sourceSize": {"w":106,"h":144}
+},
+{
+	"filename": "Step4Oval.psd",
+	"frame": {"x":1205,"y":371,"w":106,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":144},
+	"sourceSize": {"w":106,"h":144}
+},
+{
+	"filename": "Step5Oval.psd",
+	"frame": {"x":1097,"y":617,"w":106,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":144},
+	"sourceSize": {"w":106,"h":144}
+},
+{
+	"filename": "Step6Oval.psd",
+	"frame": {"x":1469,"y":1027,"w":106,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":144},
+	"sourceSize": {"w":106,"h":144}
+},
+{
+	"filename": "Step7Oval.psd",
+	"frame": {"x":1303,"y":841,"w":106,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":144},
+	"sourceSize": {"w":106,"h":144}
+},
+{
+	"filename": "Template1Btn.psd",
+	"frame": {"x":703,"y":1215,"w":284,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":148},
+	"sourceSize": {"w":284,"h":148}
+},
+{
+	"filename": "Template2Btn.psd",
+	"frame": {"x":1523,"y":277,"w":284,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":148},
+	"sourceSize": {"w":284,"h":148}
+},
+{
+	"filename": "Template3Btn.psd",
+	"frame": {"x":1523,"y":427,"w":284,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":148},
+	"sourceSize": {"w":284,"h":148}
+},
+{
+	"filename": "Template4Btn.psd",
+	"frame": {"x":1523,"y":577,"w":284,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":148},
+	"sourceSize": {"w":284,"h":148}
+},
+{
+	"filename": "Template5Btn.psd",
+	"frame": {"x":1523,"y":727,"w":284,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":148},
+	"sourceSize": {"w":284,"h":148}
+},
+{
+	"filename": "Template6Btn.psd",
+	"frame": {"x":1523,"y":877,"w":284,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":148},
+	"sourceSize": {"w":284,"h":148}
+},
+{
+	"filename": "TigerPortrait.psd",
+	"frame": {"x":769,"y":383,"w":326,"h":378},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":0,"w":326,"h":378},
+	"sourceSize": {"w":353,"h":377}
+},
+{
+	"filename": "VargasPortrait.psd",
+	"frame": {"x":363,"y":447,"w":404,"h":384},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":404,"h":384},
+	"sourceSize": {"w":403,"h":384}
+},
+{
+	"filename": "XBtn.psd",
+	"frame": {"x":589,"y":1215,"w":68,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":68},
+	"sourceSize": {"w":67,"h":67}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "GameImages.png",
+	"format": "RGBA8888",
+	"size": {"w":1994,"h":1420},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:28e1a69a9cde98b89e3a1f514653f064:04c028a7e1dbbc5b6d602bdeab206783:2fd9fbf91f3166fa92f8b8b5ae53c4d3$"
+}
+}

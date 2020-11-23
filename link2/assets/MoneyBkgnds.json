@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "MoneyBkgnd1.psd",
+	"frame": {"x":1,"y":1,"w":700,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":368},
+	"sourceSize": {"w":700,"h":368}
+},
+{
+	"filename": "MoneyBkgnd2.psd",
+	"frame": {"x":703,"y":1,"w":700,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":368},
+	"sourceSize": {"w":700,"h":368}
+},
+{
+	"filename": "MoneyBkgnd3.psd",
+	"frame": {"x":1,"y":371,"w":700,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":368},
+	"sourceSize": {"w":700,"h":368}
+},
+{
+	"filename": "MoneyBkgnd4.psd",
+	"frame": {"x":703,"y":371,"w":700,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":368},
+	"sourceSize": {"w":700,"h":368}
+},
+{
+	"filename": "MoneyBkgnd5.psd",
+	"frame": {"x":1,"y":741,"w":700,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":368},
+	"sourceSize": {"w":700,"h":368}
+},
+{
+	"filename": "MoneyBkgnd6.psd",
+	"frame": {"x":703,"y":741,"w":700,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":368},
+	"sourceSize": {"w":700,"h":368}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MoneyBkgnds.png",
+	"format": "RGBA8888",
+	"size": {"w":1404,"h":1110},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3444d8bf667b9f974f2e6e9b3e1c0c61:4be4d2f15ce511a9364dfbb876b6ccf3:0c8b845d224b44770efc79fb9c7c96bf$"
+}
+}
