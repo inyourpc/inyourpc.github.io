@@ -9,7 +9,9 @@
 		<link rel="icon" href="assets/favicon.ico" type="image/x-icon">
 		
 <!--		<meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />-->
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, width=device-width" />
+	<!--	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, width=device-width" />-->
+		<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+    
 		<meta name="format-detection" content="telephone=no" />
 		<meta name="HandheldFriendly" content="true" />
 		        
@@ -22,34 +24,7 @@
                 padding: 0;
             }
 			
-			input{
-				position: absolute;
-				top: 50%;
-				left: 50%;
-				width: 280px;
-				height: 26px;
-				margin: -18px 0 0 -150px;
-				padding: 5px 10px;
-				outline: none;
-				background-color: rgba(255, 255, 255, 0.3);
-				border: 2px solid #fff;
-				border-radius: 3px;
-				color: #fff;
-				font-size: 18px;
-				letter-spacing: 2px;
-				}
-				::-webkit-input-placeholder{
-				color: #821e69;
-				}
-				:-moz-placeholder {
-				color: #821e69; 
-				}
-				::-moz-placeholder{
-				color: #821e69;
-				}
-				:-ms-input-placeholder{  
-				color: #821e69;
-				}
+			
         </style>
 		<script type="text/javascript" src="phaser.min.js"></script>
         <script type="text/javascript" src="js/print.min.js"></script>
@@ -67,7 +42,7 @@
 
 	<body>
 		<div id="gameDiv"> </div>
-		<input id="input" type="text" placeholder="Type something" />
+		
 	</body>
 
 </html>
