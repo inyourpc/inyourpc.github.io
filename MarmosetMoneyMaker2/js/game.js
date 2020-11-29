@@ -1115,8 +1115,8 @@ onStartOverBtnDown: function() {
     //this.moneyTitleInput.setText('THE MONEY MAMMALS');
     
     //$( "#inputbox1" )[0].placeholder ( "THE MONEY MAMMALS" );
-    $( "#inputbox1" ).attr("placeholder", "THE MONEY MAMMALS");
-    $( "#inputbox1" ).text ( "" );
+    $( "#inputbox1" ).attr("placeholder", "THE MONEY MAMMALS")..val("");
+   // $( "#inputbox1" ).text ( "" );
 
     this.step = 1;
     this.colorOverlay.tint = this.colorArray[0];
