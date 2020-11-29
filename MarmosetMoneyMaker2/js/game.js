@@ -1117,13 +1117,7 @@ onStartOverBtnDown: function() {
     //$( "#inputbox1" )[0].placeholder ( "THE MONEY MAMMALS" );
     $( "#inputbox1" ).attr("placeholder", "THE MONEY MAMMALS").val("");
    // $( "#inputbox1" ).text ( "" );
-   this.gradient = this.background.context.createLinearGradient(0,0,0,960);
-   this.gradient.addColorStop(0,"#A3E297");
-   this.gradient.addColorStop(1,"#199021");
-   this.background.context.fillStyle = this.gradient;
-   this.background.context.fillRect(0,0,1440, 960);
-   game.add.sprite(0, 0, this.background);
-   
+    
     this.step = 1;
     this.colorOverlay.tint = this.colorArray[0];
     console.log(""+this.colorOverlay.tint);
