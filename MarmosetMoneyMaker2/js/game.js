@@ -1121,7 +1121,7 @@ onStartOverBtnDown: function() {
 
     this.step = 1;
     this.colorOverlay.tint = this.colorArray[0];
-    console.log(""+this.colorOverlay.tint);
+    
 
     this.refreshMoneyDisplay();
     this.moneyDisplayGroup.visible = true;
