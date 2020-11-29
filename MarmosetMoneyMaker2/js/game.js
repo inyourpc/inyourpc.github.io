@@ -1111,7 +1111,7 @@ onStartOverBtnDown: function() {
 	this.portraitBtnHilite.x = this.portaitBtnArray[0].x;
     this.portraitBtnHilite.y = this.portaitBtnArray[0].y;
     this.moneyTitle = 'THE MONEY MAMMALS';
-    this.moneyTitleInput.resetText();
+    //this.moneyTitleInput.resetText();
     this.moneyTitleInput.setText('THE MONEY MAMMALS');
     this.step = 1;
     this.colorOverlay.tint = this.colorArray[0];
