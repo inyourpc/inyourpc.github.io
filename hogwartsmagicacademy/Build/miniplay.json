@@ -1,0 +1,12 @@
+{
+"companyName": "TastyCherryGames",
+"productName": "Hogwarts Magic Academy",
+"dataUrl": "miniplay.data.unityweb",
+"wasmCodeUrl": "miniplay.wasm.code.unityweb",
+"wasmFrameworkUrl": "miniplay.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
