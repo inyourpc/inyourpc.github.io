@@ -17,18 +17,20 @@
         </div>
       </div>
       <div id="unity-warning"> </div>
+<!--
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
         <div id="unity-build-title">Super Spy Agent 46</div>
       </div>
+--!>
     </div>
     <script>
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
       var loadingBar = document.querySelector("#unity-loading-bar");
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
-      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+      //var fullscreenButton = document.querySelector("#unity-fullscreen-button");
       var warningBanner = document.querySelector("#unity-warning");
 
       // Shows a temporary message banner/ribbon for a few seconds, or
@@ -56,11 +58,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/superspyagent46.loader.js";
+      var loaderUrl = buildUrl + "/webglFantastic.loader.js";
       var config = {
-        dataUrl: buildUrl + "/superspyagent46.data.unityweb",
-        frameworkUrl: buildUrl + "/superspyagent46.framework.js.unityweb",
-        codeUrl: buildUrl + "/superspyagent46.wasm.unityweb",
+        dataUrl: buildUrl + "/webglFantastic.data.unityweb",
+        frameworkUrl: buildUrl + "/webglFantastic.framework.js.unityweb",
+        codeUrl: buildUrl + "/webglFantastic.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "TastyCherryGames",
         productName: "Super Spy Agent 46",
@@ -99,7 +101,7 @@
         canvas.style.height = "600px";
       }
 
-      canvas.style.background = "url('" + buildUrl + "/superspyagent46.jpg') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/webglFantastic.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
@@ -109,9 +111,10 @@
           progressBarFull.style.width = 100 * progress + "%";
         }).then((unityInstance) => {
           loadingBar.style.display = "none";
-          fullscreenButton.onclick = () => {
+         /* fullscreenButton.onclick = () => {
             unityInstance.SetFullscreen(1);
           };
+		*/
         }).catch((message) => {
           alert(message);
         });
