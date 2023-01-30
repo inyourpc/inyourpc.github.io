@@ -1,0 +1,43 @@
+body {
+	background-color:#8094AB;
+	margin:0px;
+	overflow: hidden;
+}
+
+#under {
+	position: absolute;
+	visibility: hidden;
+	z-index: 2;
+}
+
+#over {
+	position: absolute;
+	visibility: hidden;
+	z-index: 4;
+}
+
+canvas {
+	position: absolute;
+	left: 0%;
+  	top: 0%;
+	background-color:transparent;
+}
+
+#gameCanvas {
+	z-index: 3;
+}
+
+#menuCanvas {
+	z-index: 5;
+}
+#preloader_text{
+  position: absolute;
+  left: 30%;
+  top: 40%;
+  z-index: 6;
+  color: #222222;
+  font-size: 24px;
+ -webkit-text-stroke: 0.1px #000022;
+  color: black;
+ 
+}
