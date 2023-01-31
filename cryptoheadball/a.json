@@ -4,5 +4,8 @@
   "iframe1": "https://howtocfdtrade.com", 
   "iframe2": "http://tastycherrygames.com/",
   "iframe3": "https://tastycherrygames.com/games/acodes/ac_cryptoheadball_unityplay.html", 
+  "iframes":["https://howtocfdtrade.com",
+             "http://tastycherrygames.com/", 
+             "https://tastycherrygames.com/games/acodes/ac_cryptoheadball_unityplay.html"],
   "completed": false
 }
