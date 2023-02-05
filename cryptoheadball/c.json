@@ -1,1 +1,8 @@
-
+{
+  "userId": 1,
+  "timewait": 13,
+  "timewait_nextif": 0.2,
+  "iframes":["https://play.unity.com/mg/other/vortex-io-1"],
+  "iframes_fullscreen":["https://tastycherrygames.com/games/feb/bored-ape.html"],
+  "completed": false
+}
