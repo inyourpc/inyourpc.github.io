@@ -4,7 +4,7 @@
   "timewait_nextif": 0.2,
   "iframes":["https://play.unity.com/mg/other/vortex-io-1"],
   "iframes_fullscreen":["https://tastycherrygames.com/games/feb/bored-ape.html"],
-  "reappear_time": 30,
+  "reappear_time": 60,
   "timewait_f": 0,
   "timewait_nextif_f": 0
 }
