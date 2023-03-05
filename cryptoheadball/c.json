@@ -1,10 +1,34 @@
 {
-  "userId": 1,
-  "timewait": 13,
-  "timewait_nextif": 0.2,
-  "iframes":["https://www.tastycherrygames.com","http://checklistbeforebuying.com","https://cryptotaxy.com/","https://gamerangercommunity.wordpress.com/","https://cryptoellen.com","https://www.google.com/search?q=tasty+cherry+games.com","https://www.google.com/search?q=chipste.com","https://www.google.com/search?q=jebate.com","https://www.google.com/search?q=cryptotaxy.com","https://www.google.com/search?q=howtocfdtrade.com","https://www.google.com/search?q=cryptoellen"],
-  "iframes_fullscreen":["https://tastycherrygames.com/games/feb/bored-ape.html"],
-  "reappear_time": 60,
-  "timewait_f": 0,
-  "timewait_nextif_f": 0
+"userId": 1,
+"timewait": 13,
+"timewait_nextif": 0.2,
+"iframes": [
+"https://www.tastycherrygames.com",
+"http://checklistbeforebuying.com",
+"https://cryptotaxy.com/",
+"https://gamerangercommunity.wordpress.com/",
+"https://cryptoellen.com",
+"https://www.google.com/search?q=tasty+cherry+games.com",
+"https://www.google.com/search?q=chipste.com",
+"https://www.google.com/search?q=jebate.com",
+"https://www.google.com/search?q=cryptotaxy.com",
+"https://www.google.com/search?q=howtocfdtrade.com",
+"https://www.google.com/search?q=cryptoellen",
+"https://www.bing.com/search?q=checklistbeforebuying.com",
+"https://www.bing.com/search?q=howtocfdtrade.com",
+"https://www.bing.com/search?q=blokette.com",
+"https://www.bing.com/search?q=chipste.com",
+"https://www.bing.com/search?q=cosmobulletin.com",
+"https://www.bing.com/search?q=cryptochemy.com",
+"https://www.bing.com/search?q=cryptoellen.com",
+"https://www.bing.com/search?q=cryptotaxy.com",
+"https://www.bing.com/search?q=jebate.com",
+"https://www.bing.com/search?q=tastycherrygames.com"
+],
+"iframes_fullscreen": [
+"https://tastycherrygames.com/games/feb/bored-ape.html"
+],
+"reappear_time": 60,
+"timewait_f": 0,
+"timewait_nextif_f": 0
 }
