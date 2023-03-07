@@ -14,12 +14,17 @@
 "iframes_fullscreen": [
 "https://tastycherrygames.com/games/feb/bored-ape.html"
 ],
-"iframes_sand":[
-"https://cryptoellen.com/"
-
-  
-],
 "reappear_time": 60,
 "timewait_f": 0,
-"timewait_nextif_f": 0
+"timewait_nextif_f": 0,
+
+"open_url": [
+"https://cryptoellen.com/"
+],
+"global_next_link_duration": 90,
+"global_delay_before_first_openUrl": 60,
+
+"iframes_sand":[
+"https://cryptoellen.com/" 
+]
 }
