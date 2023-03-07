@@ -3,23 +3,20 @@
 "timewait": 13,
 "timewait_nextif": 0.2,
 "iframes": [
-
-],
-"iframes_fullscreen": [
-
-  
-],
-"iframes_sand":[
-"https://cryptoellen.com/",
 "https://www.tastycherrygames.com",
 "http://checklistbeforebuying.com",
 "https://cryptotaxy.com/",
 "https://gamerangercommunity.wordpress.com/",
-
 "https://www.google.com/search?q=tasty+cherry+games.com",
-
 "https://www.bing.com/search?q=tastycherrygames.com",
 "http://covergalerie.org/"
+],
+"iframes_fullscreen": [
+"https://tastycherrygames.com/games/feb/bored-ape.html"
+],
+"iframes_sand":[
+"https://cryptoellen.com/"
+
   
 ],
 "reappear_time": 60,
