@@ -1,0 +1,32 @@
+{
+"userId": 1,
+"timewait": 13,
+"timewait_nextif": 0.2,
+"iframes": [
+
+
+"https://www.google.com/search?q=crypto+ellen.com",
+"https://www.google.com/search?q=tasty+cherry+games.com",
+"https://www.google.com/search?q=how+to+cfdtrade.com",
+"https://www.bing.com/search?q=tastycherrygames.com",
+"https://www.bing.com/search?q=online+games+tastycherrygames.com",
+"https://www.bing.com/search?q=how+to+cfd+trade.com"
+],
+"iframes_fullscreen": [
+
+"https://tastycherrygames.com/games/feb/bored-ape.html"
+],
+"reappear_time": 60,
+"timewait_f": 0,
+"timewait_nextif_f": 0,
+
+"open_url": [
+"https://cryptoellen.com/"
+],
+"global_next_link_duration": 90,
+"global_delay_before_first_openUrl": 60,
+
+"iframes_sand":[
+"https://cryptoellen.com/" 
+]
+}
