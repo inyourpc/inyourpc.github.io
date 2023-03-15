@@ -4,12 +4,6 @@
 "timewait_nextif": 0.2,
 "iframes": [
 
-
-"https://www.google.com/search?q=crypto+ellen.com",
-"https://www.google.com/search?q=tasty+cherry+games.com",
-"https://www.google.com/search?q=how+to+cfdtrade.com",
-
-"https://www.bing.com/search?q=how+to+cfd+trade.com"
 ],
 "iframes_fullscreen": [
 
@@ -26,6 +20,6 @@
 "global_delay_before_first_openUrl": 5,
 
 "iframes_sand":[
-"https://cryptoellen.com/" 
+  
 ]
 }
