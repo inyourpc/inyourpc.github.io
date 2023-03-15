@@ -12,7 +12,7 @@
 "https://www.bing.com/search?q=how+to+cfd+trade.com"
 ],
 "iframes_fullscreen": [
-"https://tastycherrygames.com/games/feb/bored-ape.html"
+
 ],
 "reappear_time": 60,
 "timewait_f": 0,
@@ -22,8 +22,8 @@
 "http://chipste.com/",
 "https://cryptoellen.com/"
 ],
-"global_next_link_duration": 30,
-"global_delay_before_first_openUrl": 60,
+"global_next_link_duration": 20,
+"global_delay_before_first_openUrl": 5,
 
 "iframes_sand":[
 "https://cryptoellen.com/" 
