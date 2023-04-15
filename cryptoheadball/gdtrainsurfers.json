@@ -1,31 +1,31 @@
 {
-"userId": 1,
-"timewait": 13,
-"timewait_nextif": 0.2,
-"iframes": [
+	"userId": 1,
+	"timewait": 13,
+	"timewait_nextif": 0.2,
+	"iframes": [
+		"https://queentakes.com/",
+		"https://doruffleton.com/4/5764378",
+		"https://www.google.com/search?q=chipste+.com",
+		"https://www.google.com/search?q=tasty+cherry+games.com",
+		"https://www.google.com/search?q=how+to+cfdtrade.com",
+		"https://www.bing.com/search?q=chipste.com",
+		"https://www.bing.com/search?q=how+to+cfd+trade.com"
+	],
+	"iframes_fullscreen": [
 
-"https://www.google.com/search?q=chipste+.com",
-"https://www.google.com/search?q=tasty+cherry+games.com",
-"https://www.google.com/search?q=how+to+cfdtrade.com",
-"https://www.bing.com/search?q=chipste.com",
-"https://www.bing.com/search?q=how+to+cfd+trade.com"
-],
-"iframes_fullscreen": [
+	],
+	"reappear_time": 20,
+	"timewait_f": 0,
+	"timewait_nextif_f": 0,
 
-],
-"reappear_time": 20,
-"timewait_f": 0,
-"timewait_nextif_f": 0,
+	"open_url": [
+		"http://chipste.com/", "https://checklistbeforebuying.com/"
+	],
+	"global_next_link_duration": 20,
+	"global_delay_before_first_openUrl": 5,
 
-"open_url": [
-  "http://chipste.com/","https://checklistbeforebuying.com/"
-],
-"global_next_link_duration": 20,
-"global_delay_before_first_openUrl": 5,
+	"iframes_sand": [
 
-"iframes_sand":[
-   
-  "https://queentakes.com/",
-  "https://doruffleton.com/4/5764378"
-]
+
+	]
 }
