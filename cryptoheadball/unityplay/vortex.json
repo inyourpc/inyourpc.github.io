@@ -3,10 +3,9 @@
 "timewait": 13,
 "timewait_nextif": 0.2,
 "iframes": [
-"https://cryptobool.com/static/php/id.php?publisher_id=5557518905882991"
+
 ],
 "iframes_fullscreen": [
-"https://cryptobool.com/static/c1.html"
 ],
 "reappear_time": 60,
 "timewait_f": 0,
